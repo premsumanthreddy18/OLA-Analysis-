@@ -79,5 +79,4 @@ Key Insights
 - Focus retention efforts on top 5% of customers who 
   contribute disproportionately to total booking value
 
-## Dashboard Preview
-[Add screenshot here]
+
